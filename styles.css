@@ -2,21 +2,21 @@
 
 h1{
   position:absolute!important;
-  top: -30px!important;
+  top: -20px!important;
   left: 10%!important;
    font-size:30px!important;
    
 }
 h3{
 position:absolute;
-  bottom: -30px!important;
+  bottom: -15px!important;
   left: 32%!important;
 
    font-size:30px!important;
 }
 
 body{
-  transform: scale(0.90)!important;
+  transform: scale(0.95)!important;
 }
 
 
@@ -203,4 +203,16 @@ font-family: monospace;
 #result{
   background-color: white;
 }
+#jibu{
+ margin-top: -60px;
+  max-height: 230px; 
+  overflow-y: auto;
+  overflow-x: hidden;
+ 
+  padding: 10px; 
+  box-sizing: border-box; 
+  background-color: #f9f9f9;
+}
+
+
 
