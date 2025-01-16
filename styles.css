@@ -1,19 +1,25 @@
 @media(max-width: 768px){
-h1,h3{
-   margin-left: -60px !important;
-  font-size:30px!important;
+
+h1{
+  position:absolute!important;
+  top: -80px!important;
+  left: 10%!important;
+   font-size:25px!important;
+   
+}
+h3{
+position:absolute;
+  bottom: -80px!important;
+  left: 32%!important;
+
+   font-size:30px!important;
 }
 
 body{
-  transform: scale(0.75)
+  transform: scale(0.80)!important;
 }
 
 
-
-
-
-
-}
 
 
 @keyframes slideInFromLeft {
