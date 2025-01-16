@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+     
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+
+     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+
+    <title>Telephone Number validator</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <h1>Telephone<br> Number validator</h1>
+    <div id="outerbody">
+      <div id="smallbut"></div>
+      <div id="otherside"></div>
+      <div id="volumebut" ></div>
+      <div id="vlumebut"></div>
+    <div id="iphone-body">
+      <div id="notch"></div>
+      <div id="screen">
+        
+        <p>enter number</p>
+        <input id="user-input" type="text" placeholder="555-555-555" required>
+        <button id="check-btn">Check</button>
+        <button id="clear-btn">Clear</button>
+        <p id="results-div"></p>
+      </div>
+     
+    
+    </div>
+
+  <h3>Ronnie&#169</h3>  
+    </div>
+   <script src="script.js"></script>
+  </body>
+</html>
